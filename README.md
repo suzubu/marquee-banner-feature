@@ -1,4 +1,4 @@
-# 🔁 React Marquee Component
+# 🔁 Marquee Component
 
 > A flexible, full-width, endlessly scrolling marquee component built with React + GSAP. Supports tilt, speed control, direction (left/right), and hover pause.
 
@@ -15,7 +15,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/suzubu/react-marquee.git
+git clone https://github.com/suzubu/marquee-banner-feature.git
 
 # 2. Navigate into the folder
 cd react-marquee
