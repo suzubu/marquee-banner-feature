@@ -17,13 +17,10 @@
 # 1. Clone the repo
 git clone https://github.com/suzubu/marquee-banner-feature.git
 
-# 2. Navigate into the folder
-cd react-marquee
-
-# 3. Install dependencies
+# 2. Install dependencies
 npm install
 
-# 4. Run the app
+# 3. Start dev server
 npm run dev
 ```
 
